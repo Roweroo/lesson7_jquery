@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 28, 2017
 
 ### Student Name:  
-(First and Last Name)
+Linda Rowe
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment demonstrates the "getting" and "setting" of elements using jQuery and also shows how to add features such as hover and animate through scripting.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
