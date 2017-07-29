@@ -10,7 +10,7 @@ July 28, 2017
 Linda Rowe
 
 ### Project Description:
-This assignment demonstrates the "getting" and "setting" of elements using jQuery and italso shows how to add features such as hover and animate through scripting.
+This assignment demonstrates the "getting" and "setting" of elements using jQuery and also shows how to add features such as hover and animate through scripting.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 

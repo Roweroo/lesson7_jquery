@@ -1,0 +1,6 @@
+Here are the features I added or changes made to the original file provided:
+1. I added 2 DOM traversals to the jQuery file, where I used .children to access the elements.
+2. I changed the CSS of the h2 feature to red using jQuery.
+3. I made the h2 headline, "It'll Be Going, Going, Gone..." using the animation feature of .fadeOut.
+4. I selected a new image
+5. I selected new colors for the click features to the subheads.
