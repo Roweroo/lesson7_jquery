@@ -13,11 +13,10 @@ Linda Rowe
 This assignment demonstrates the "getting" and "setting" of elements using jQuery and italso shows how to add features such as hover and animate through scripting.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://roweroo.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery methods can be used to look up a value, called "getting", and also assign or change a value, which is called "setting".
+2. jQuery simplifies many JavaScript actions through the use of scripting, primarily by selectors, methods and events.
+3. It's possible to chain methods for more than one element while using jQuery.
 
